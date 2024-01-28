@@ -1,0 +1,184 @@
+{
+    "data": {
+        "mal_id": 100,
+        "url": "https:\/\/myanimelist.net\/anime\/100\/Shin_Shirayuki-hime_Densetsu_Pr\u00e9tear",
+        "images": {
+            "jpg": {
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709.jpg",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709t.jpg",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709l.jpg"
+            },
+            "webp": {
+                "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709.webp",
+                "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709t.webp",
+                "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/11709l.webp"
+            }
+        },
+        "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+                "image_url": null,
+                "small_image_url": null,
+                "medium_image_url": null,
+                "large_image_url": null,
+                "maximum_image_url": null
+            }
+        },
+        "approved": true,
+        "titles": [
+            {
+                "type": "Default",
+                "title": "Shin Shirayuki-hime Densetsu Pr\u00e9tear"
+            },
+            {
+                "type": "Synonym",
+                "title": "Shin Shirayuki-hime Densetsu Pretear"
+            },
+            {
+                "type": "Japanese",
+                "title": "\u65b0\u767d\u96ea\u59eb\u4f1d\u8aac\u30d7\u30ea\u30fc\u30c6\u30a3\u30a2"
+            },
+            {
+                "type": "English",
+                "title": "Pr\u00e9tear: The New Legend of Snow White"
+            },
+            {
+                "type": "French",
+                "title": "Pr\u00e9tear"
+            }
+        ],
+        "title": "Shin Shirayuki-hime Densetsu Pr\u00e9tear",
+        "title_english": "Pr\u00e9tear: The New Legend of Snow White",
+        "title_japanese": "\u65b0\u767d\u96ea\u59eb\u4f1d\u8aac\u30d7\u30ea\u30fc\u30c6\u30a3\u30a2",
+        "title_synonyms": [
+            "Shin Shirayuki-hime Densetsu Pretear"
+        ],
+        "type": "TV",
+        "source": "Manga",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "airing": false,
+        "aired": {
+            "from": "2001-04-04T00:00:00+00:00",
+            "to": "2001-06-27T00:00:00+00:00",
+            "prop": {
+                "from": {
+                    "day": 4,
+                    "month": 4,
+                    "year": 2001
+                },
+                "to": {
+                    "day": 27,
+                    "month": 6,
+                    "year": 2001
+                }
+            },
+            "string": "Apr 4, 2001 to Jun 27, 2001"
+        },
+        "duration": "23 min per ep",
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7.16,
+        "scored_by": 28615,
+        "rank": 3377,
+        "popularity": 2662,
+        "members": 63345,
+        "favorites": 425,
+        "synopsis": "Due to her father's remarriage, robust 16-year-old Himeno Awayuki moves into a large mansion with a beautiful garden\u2014the quintessential dream house for any girl her age. However, much to Himeno's disappointment, her new stepfamily doesn't really seem to like her, as her stepmother often occupies herself with her father, her younger stepsister Mawata ignores her, and her other stepsister\u2014the equally aged Mayune\u2014tries to prank her at every opportunity.\n\nBut Himeno doesn't have time to dwell into thoughts of hopelessness\u2014her new life has now become involved with a group of seven magical boys known as the Leafe Knights, after they ask her to become a magical princess who can borrow their powers! Although Himeno accepts their request and becomes the Pr\u00e9tear, she feels doubtful in her abilities to protect the world and its Leafe, the source of energy for all life. Will Himeno be able to find happiness among her new family and also save the Earth from the enemy, the Princess of Disaster?\n\n[Written by MAL Rewrite]",
+        "background": null,
+        "season": "spring",
+        "year": 2001,
+        "broadcast": {
+            "day": "Wednesdays",
+            "time": "18:30",
+            "timezone": "Asia\/Tokyo",
+            "string": "Wednesdays at 18:30 (JST)"
+        },
+        "producers": [
+            {
+                "mal_id": 113,
+                "type": "anime",
+                "name": "Kadokawa Shoten",
+                "url": "https:\/\/myanimelist.net\/anime\/producer\/113\/Kadokawa_Shoten"
+            },
+            {
+                "mal_id": 160,
+                "type": "anime",
+                "name": "Rondo Robe",
+                "url": "https:\/\/myanimelist.net\/anime\/producer\/160\/Rondo_Robe"
+            }
+        ],
+        "licensors": [
+            {
+                "mal_id": 97,
+                "type": "anime",
+                "name": "ADV Films",
+                "url": "https:\/\/myanimelist.net\/anime\/producer\/97\/ADV_Films"
+            },
+            {
+                "mal_id": 102,
+                "type": "anime",
+                "name": "Funimation",
+                "url": "https:\/\/myanimelist.net\/anime\/producer\/102\/Funimation"
+            }
+        ],
+        "studios": [
+            {
+                "mal_id": 34,
+                "type": "anime",
+                "name": "Hal Film Maker",
+                "url": "https:\/\/myanimelist.net\/anime\/producer\/34\/Hal_Film_Maker"
+            }
+        ],
+        "genres": [
+            {
+                "mal_id": 8,
+                "type": "anime",
+                "name": "Drama",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/8\/Drama"
+            },
+            {
+                "mal_id": 10,
+                "type": "anime",
+                "name": "Fantasy",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/10\/Fantasy"
+            },
+            {
+                "mal_id": 22,
+                "type": "anime",
+                "name": "Romance",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/22\/Romance"
+            }
+        ],
+        "explicit_genres": [],
+        "themes": [
+            {
+                "mal_id": 66,
+                "type": "anime",
+                "name": "Mahou Shoujo",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/66\/Mahou_Shoujo"
+            },
+            {
+                "mal_id": 73,
+                "type": "anime",
+                "name": "Reverse Harem",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/73\/Reverse_Harem"
+            },
+            {
+                "mal_id": 31,
+                "type": "anime",
+                "name": "Super Power",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/31\/Super_Power"
+            }
+        ],
+        "demographics": [
+            {
+                "mal_id": 25,
+                "type": "anime",
+                "name": "Shoujo",
+                "url": "https:\/\/myanimelist.net\/anime\/genre\/25\/Shoujo"
+            }
+        ]
+    }
+}
